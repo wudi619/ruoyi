@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 22:11:49 CST 2024
+@default-echo2-group-https\://nexus.ok6.cc/repository/echo2-group/.lastUpdated=1716905508842
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1716905509236
+https\://nexus.ok6.cc/repository/echo2-group/.error=Could not transfer artifact org.apache.velocity\:velocity-engine-core\:pom\:2.3 from/to echo2-group (https\://nexus.ok6.cc/repository/echo2-group/)\: transfer failed for https\://nexus.ok6.cc/repository/echo2-group/org/apache/velocity/velocity-engine-core/2.3/velocity-engine-core-2.3.pom, status\: 522
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.velocity\:velocity-engine-core\:pom\:2.3 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/apache/velocity/velocity-engine-core/2.3/velocity-engine-core-2.3.pom

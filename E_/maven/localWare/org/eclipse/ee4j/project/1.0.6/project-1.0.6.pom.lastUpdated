@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 22:26:31 CST 2024
+@default-echo2-group-https\://nexus.ok6.cc/repository/echo2-group/.lastUpdated=1716906382058
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1716906391838
+https\://nexus.ok6.cc/repository/echo2-group/.error=Could not transfer artifact org.eclipse.ee4j\:project\:pom\:1.0.6 from/to echo2-group (https\://nexus.ok6.cc/repository/echo2-group/)\: transfer failed for https\://nexus.ok6.cc/repository/echo2-group/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom, status\: 522
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.ee4j\:project\:pom\:1.0.6 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom

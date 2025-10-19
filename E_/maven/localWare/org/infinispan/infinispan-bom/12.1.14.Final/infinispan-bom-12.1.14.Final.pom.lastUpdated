@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 22:19:19 CST 2024
+@default-echo2-group-https\://nexus.ok6.cc/repository/echo2-group/.lastUpdated=1716905958246
+https\://repo.maven.apache.org/maven2/.lastUpdated=1716905959890
+https\://nexus.ok6.cc/repository/echo2-group/.error=Could not transfer artifact org.infinispan\:infinispan-bom\:pom\:12.1.14.Final from/to echo2-group (https\://nexus.ok6.cc/repository/echo2-group/)\: transfer failed for https\://nexus.ok6.cc/repository/echo2-group/org/infinispan/infinispan-bom/12.1.14.Final/infinispan-bom-12.1.14.Final.pom, status\: 522

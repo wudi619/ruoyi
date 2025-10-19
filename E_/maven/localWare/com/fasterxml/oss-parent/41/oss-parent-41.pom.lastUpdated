@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 22:24:57 CST 2024
+@default-echo2-group-https\://nexus.ok6.cc/repository/echo2-group/.lastUpdated=1716906295686
+https\://repo.maven.apache.org/maven2/.lastUpdated=1716906297652
+https\://nexus.ok6.cc/repository/echo2-group/.error=Could not transfer artifact com.fasterxml\:oss-parent\:pom\:41 from/to echo2-group (https\://nexus.ok6.cc/repository/echo2-group/)\: transfer failed for https\://nexus.ok6.cc/repository/echo2-group/com/fasterxml/oss-parent/41/oss-parent-41.pom, status\: 522

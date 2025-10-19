@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 22:16:35 CST 2024
+@default-echo2-group-https\://nexus.ok6.cc/repository/echo2-group/.lastUpdated=1716905794781
+https\://repo.maven.apache.org/maven2/.lastUpdated=1716905795694
+https\://nexus.ok6.cc/repository/echo2-group/.error=Could not transfer artifact io.dropwizard.metrics\:metrics-bom\:pom\:4.1.36 from/to echo2-group (https\://nexus.ok6.cc/repository/echo2-group/)\: transfer failed for https\://nexus.ok6.cc/repository/echo2-group/io/dropwizard/metrics/metrics-bom/4.1.36/metrics-bom-4.1.36.pom, status\: 522

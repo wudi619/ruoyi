@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 28 22:25:39 CST 2024
+@default-echo2-group-https\://nexus.ok6.cc/repository/echo2-group/.lastUpdated=1716906337947
+https\://repo.maven.apache.org/maven2/.lastUpdated=1716906339852
+https\://nexus.ok6.cc/repository/echo2-group/.error=Could not transfer artifact org.glassfish.jersey\:jersey-bom\:pom\:2.33 from/to echo2-group (https\://nexus.ok6.cc/repository/echo2-group/)\: transfer failed for https\://nexus.ok6.cc/repository/echo2-group/org/glassfish/jersey/jersey-bom/2.33/jersey-bom-2.33.pom, status\: 522
